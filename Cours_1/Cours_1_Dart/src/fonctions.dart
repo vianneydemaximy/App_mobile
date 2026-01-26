@@ -6,7 +6,7 @@ void main() {
     return;
   }
 
-  List<int> triliste(List<int> liste, bool croissant){
+  /*List<int> triliste(List<int> liste, bool croissant){
     if (croissant){
       return liste..sort();
     }
@@ -14,7 +14,7 @@ void main() {
       
     }
 
-  }
+  }*/
   method(0);
   method(0, 1);
   method(0, null);
